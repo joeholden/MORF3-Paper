@@ -1,0 +1,6 @@
+install.packages("retistruct", repos="https://mran.microsoft.com/snapshot/2019-02-11")
+install.packages("RGtk2", repos="https://mran.microsoft.com/snapshot/2019-02-11")
+install.packages("gWidgets2RGtk2", repos="https://mran.microsoft.com/snapshot/2019-02-11")
+install.packages("cairoDevice", repos="https://mran.microsoft.com/snapshot/2019-02-11")
+library("retistruct")
+retistruct()
